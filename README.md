@@ -69,7 +69,7 @@ The actual location of the minimum, dimensions, and various algorithm parameters
 
 ![Window-Settings.gif](Documentation/Window-Settings.gif)
 
-> [!TODO]
+> ### :memo: TODO
 > Add further explanation of parameters.
 
 Finally the `Clear` button will reset the display, however *not* the algorithm. Unfortunately the cleanest way to start over is to reopen the application.
